@@ -1,2 +1,2 @@
 # STA_Student_Teacher_Interface
- STA trainaing management tool. Student Teacher interface.
+ STA training management tool. Student Teacher interface.
